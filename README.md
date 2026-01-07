@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F0FF&width=600&lines=Hi+ I`m Alireza Ebrahimi ;React+%7C+Node.js+%7C+PHP" />
-</p
+</p>
 
 
 <h1 align="center">Hi there! 👋 I'm Alireza Ebrahimi</h1>
