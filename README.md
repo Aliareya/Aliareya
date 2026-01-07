@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F0FF&width=600&lines=Hi+ I`m Alireza Ebrahimi ;React+%7C+Node.js+%7C+PHP" />
-</p>
-
 
 <h1 align="center">Hi there! 👋 I'm Alireza Ebrahimi</h1>
 <h3 align="center">💻 Web Developer | React • Node.js • PHP | Building interactive & responsive websites</h3>
