@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200"/>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F0FF&width=600&lines=A+l+i+r+e+z+a" />
+</p
 
 
 <h1 align="center">Hi there! 👋 I'm Alireza Ebrahimi</h1>
