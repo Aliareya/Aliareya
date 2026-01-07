@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200"/>
 </p>
+
 
 <h1 align="center">Hi there! 👋 I'm Alireza Ebrahimi</h1>
 <h3 align="center">💻 Web Developer | React • Node.js • PHP | Building interactive & responsive websites</h3>
